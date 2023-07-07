@@ -1,0 +1,3 @@
+when creating new sessions in dms, there will be a file created in this folder named `${userId}.txt`.
+
+you may delete this file.

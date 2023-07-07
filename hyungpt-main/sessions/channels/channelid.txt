@@ -1,0 +1,3 @@
+when creating new sessions within a channel, there will be a file created in this folder named `${channelId}.txt`.
+
+you may delete this file.

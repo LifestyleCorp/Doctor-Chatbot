@@ -114,15 +114,7 @@ Doctor-Chatbot is built using a modular architecture to ensure scalability, main
    - **Tools:** Three.js or similar
    - **Description:** Renders interactive 3D human body models for symptom selection and visualization.
 
-  
-
 https://github.com/user-attachments/assets/083506a3-afbe-4494-b7ff-6bf5f83422bf
-
-
-https://github.com/user-attachments/assets/24b564dd-d5c5-4c3b-9dab-219503b76cdf
-
-
-
 
 9. **Report Analysis Module:**
    - **Tools:** Computer Vision Libraries (e.g., OpenCV), NLP Models
@@ -130,7 +122,6 @@ https://github.com/user-attachments/assets/24b564dd-d5c5-4c3b-9dab-219503b76cdf
 
 https://github.com/user-attachments/assets/8585b020-8d25-49d5-896a-16d745a5ad51
 ![image](https://github.com/user-attachments/assets/6f0a5a59-ffac-40db-8ad1-baed29605373)
-
 
 
 10. **Deployment:**

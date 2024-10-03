@@ -106,6 +106,8 @@ Doctor-Chatbot is built using a modular architecture to ensure scalability, main
 7. **Multi-Agent Coordination:**
    - **Framework:** Custom Multi-Agent System
    - **Description:** Facilitates communication and collaboration among specialized agent doctors within group chats.
+
+![agent](https://github.com/user-attachments/assets/6d6baa28-42bb-44df-9a37-5084574006cb)
   
 ![macon_v1](https://github.com/user-attachments/assets/9d0006a2-cf93-404d-8664-a9a2b8f258e4)
 

@@ -103,6 +103,9 @@ Doctor-Chatbot is built using a modular architecture to ensure scalability, main
 7. **Multi-Agent Coordination:**
    - **Framework:** Custom Multi-Agent System
    - **Description:** Facilitates communication and collaboration among specialized agent doctors within group chats.
+  
+![macon_v1](https://github.com/user-attachments/assets/9d0006a2-cf93-404d-8664-a9a2b8f258e4)
+
 
 8. **3D Visualization Engine:**
    - **Tools:** Three.js or similar
@@ -789,13 +792,18 @@ This project is licensed under the [MIT License](LICENSE).
 - **Medical Professionals:** For their invaluable insights and guidance in developing accurate medical responses.
 - **Community:** To the open-source community for fostering collaboration and innovation.
 
+## Research
+
+- https://ar5iv.labs.arxiv.org/html/2405.02957
+- https://arxiv.org/abs/2410.00441v1
+
 ## Contact
 
 For any inquiries, support, or suggestions, please reach out through the following channels:
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [rahuljaicsam@gmail.com](mailto:your.email@example.com)
 - **GitHub Issues:** [Open an Issue](https://github.com/yourusername/Doctor-Chatbot/issues)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Twitter:** [@JaicSam](https://twitter.com/yourtwitterhandle)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 
 ---

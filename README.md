@@ -34,9 +34,7 @@
 
 With the integration of advanced features such as a multi-agent framework, interactive 3D human body visualization, and intelligent report analysis, Doctor-Chatbot stands as a cutting-edge tool in the realm of digital health assistants.
 
-![6f200cc6-f217-4a18-a77a-87539ca28074](https://github.com/user-attachments/assets/92761886-0625-470e-bb35-b09d5b901e2f)
-
-![Doctor-Chatbot Banner](assets/banner.png)
+![6f200cc6-f217-4a18-a77a-87539ca28074](https://github.com/user-attachments/assets/92761886-0625-470e-bb35-b09d5b901e2f)(assets/banner.png)
 
 ## Features
 

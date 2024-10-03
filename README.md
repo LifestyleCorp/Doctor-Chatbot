@@ -30,7 +30,7 @@
 
 ## Overview
 
-**Doctor-Chatbot** is a sophisticated multimodal Large Language Model (LLM) powered open-source chatbot designed to assist both healthcare professionals and individuals in diagnosing medical conditions, recommending physical examinations, advising necessary investigations, and providing management plans for a wide range of medical ailments. By leveraging both private and public data sources, including platforms like YouTube and Vimeo, Doctor-Chatbot ensures comprehensive and reliable medical guidance.
+**Doctor-Chatbot** is a sophisticated multimodal multiagent Large Language Model (LLM) powered open-source chatbot designed to assist both healthcare professionals and individuals in diagnosing medical conditions, recommending physical examinations, advising necessary investigations, and providing management plans for a wide range of medical ailments. By leveraging both private and public data sources, including platforms like YouTube and Vimeo, Doctor-Chatbot ensures comprehensive and reliable medical guidance. It has the ability to call all medical AI-ML API  to finish tasks it cant.
 
 With the integration of advanced features such as a multi-agent framework, interactive 3D human body visualization, and intelligent report analysis, Doctor-Chatbot stands as a cutting-edge tool in the realm of digital health assistants.
 

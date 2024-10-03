@@ -80,6 +80,9 @@ Doctor-Chatbot is built using a modular architecture to ensure scalability, main
    - **Framework:** React.js
    - **Description:** Provides an interactive and responsive user interface for users to interact with the chatbot, including the 3D human body display and report management sections.
 
+![image](https://github.com/user-attachments/assets/bc5d8987-d7f7-4ef2-8535-de4ac3a11abd)
+
+
 2. **Backend:**
    - **Framework:** Flask/Django
    - **Description:** Handles API requests, processes user inputs, manages interactions with the LLM and other services, and coordinates the multi-agent framework.

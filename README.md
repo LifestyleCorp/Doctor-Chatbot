@@ -112,6 +112,10 @@ Doctor-Chatbot is built using a modular architecture to ensure scalability, main
    - **Tools:** Computer Vision Libraries (e.g., OpenCV), NLP Models
    - **Description:** Analyzes uploaded medical reports and images, generating layman-friendly explanations and visual renderings.
 
+https://github.com/user-attachments/assets/8585b020-8d25-49d5-896a-16d745a5ad51
+
+
+
 10. **Deployment:**
     - **Platform:** Docker, Kubernetes
     - **Description:** Ensures scalable and reliable deployment of the application.

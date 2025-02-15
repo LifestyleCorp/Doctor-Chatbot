@@ -41,11 +41,13 @@ With the integration of advanced features such as a multi-agent framework, inter
 ### Core Features
 
 - **Multimodal Interaction:** Supports both text and video inputs/outputs to enhance user experience and provide comprehensive guidance.
+- **Sidebar navigation:** Supports checkbox , dropdown and manual fillup of diet, exercise, medicine,symptoms,etc
 - **Accurate Diagnostics:** Utilizes advanced LLM capabilities to analyze symptoms and provide potential diagnoses with high accuracy.
 - **Physical Examination Recommendations:** Suggests specific physical examinations and provides video demonstrations from trusted sources.
 - **Investigation Advice:** Recommends appropriate diagnostic tests and procedures tailored to the user's condition.
 - **Management Plans:** Offers evidence-based treatment and management strategies aligned with current medical guidelines.
-- **Data Integration:** Aggregates information from private repositories and public platforms like YouTube and Vimeo to provide rich resources.
+- **Data Integration:** Aggregates information from private repositories and public platforms like Google, YouTube and Vimeo to provide rich resources.
+- **Cache RAG:** Able to upload private multimodal medical data to RAG in post processed chunked vector database
 - **User-Friendly Interface:** Intuitive and accessible interface for seamless interaction.
 - **Open Source:** Fully open-source, promoting transparency, collaboration, and continuous improvement by the community.
 - **Privacy and Security:** Ensures user data is handled with the highest standards of privacy and security.
@@ -85,10 +87,12 @@ Doctor-Chatbot is built using a modular architecture to ensure scalability, main
 
 2. **Backend:**
    - **Framework:** Flask/Django
+   - **RAG:** Cached and reasoning Retreival Augmented Generation
+   - **Cache Analytics**: Size, Hit rate, Eviction , Compression Threshold
    - **Description:** Handles API requests, processes user inputs, manages interactions with the LLM and other services, and coordinates the multi-agent framework.
 
 3. **Language Model:**
-   - **Model:** GPT-4 or similar LLM
+   - **Model:** Deepseek R1, Google Gemini , Grok2
    - **Description:** Powers the chatbot's natural language understanding and generation capabilities, facilitating intelligent and context-aware conversations.
 
 4. **Data Integration Layer:**
@@ -96,7 +100,7 @@ Doctor-Chatbot is built using a modular architecture to ensure scalability, main
    - **Description:** Fetches relevant video resources and other data necessary for comprehensive responses and interactive features.
 
 5. **Database:**
-   - **Type:** PostgreSQL/MySQL
+   - **Type:** PostgreSQL
    - **Description:** Stores user data, interaction logs, uploaded reports, and other necessary information securely.
 
 6. **Authentication & Authorization:**
@@ -149,6 +153,7 @@ https://github.com/user-attachments/assets/8585b020-8d25-49d5-896a-16d745a5ad51
 - **Language Model:**
   - Deepseek R1
   - google gemini
+  - Grok2
 
 - **Database:**
   - PostgreSQL supabase

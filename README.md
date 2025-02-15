@@ -143,17 +143,15 @@ https://github.com/user-attachments/assets/8585b020-8d25-49d5-896a-16d745a5ad51
   - Three.js (for 3D visualization)
 
 - **Backend:**
-  - Python
-  - Flask/Django
+  - nodejs
   - RESTful APIs
 
 - **Language Model:**
-  - OpenAI GPT-4
-  - Hugging Face Transformers
+  - Deepseek R1
+  - google gemini
 
 - **Database:**
-  - PostgreSQL/MySQL
-  - SQLAlchemy
+  - PostgreSQL supabase
 
 - **Data Integration:**
   - YouTube Data API

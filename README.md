@@ -812,7 +812,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries, support, or suggestions, please reach out through the following channels:
 
-- **Email:** [rahuljaicsam@gmail.com](mailto:your.email@example.com)
 - **GitHub Issues:** [Open an Issue](https://github.com/yourusername/Doctor-Chatbot/issues)
 - **Twitter:** [@JaicSam](https://twitter.com/yourtwitterhandle)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)

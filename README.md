@@ -81,6 +81,7 @@ Doctor-Chatbot is built using a modular architecture to ensure scalability, main
    - **Description:** Provides an interactive and responsive user interface for users to interact with the chatbot, including the 3D human body display and report management sections.
 
 ![image](https://github.com/user-attachments/assets/bc5d8987-d7f7-4ef2-8535-de4ac3a11abd)
+![doctor chatbot](https://github.com/user-attachments/assets/685d5cb3-89f9-4e14-b52a-4d649d16a708)
 
 
 2. **Backend:**

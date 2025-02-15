@@ -1,5 +1,5 @@
 
-# Doctor-Chatbot
+# Doctor-Chatbot (under construction we will release react+supabase+LLM+API version soon)
 
 ![License](https://img.shields.io/github/license/yourusername/Doctor-Chatbot)
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/Doctor-Chatbot?style=social)
